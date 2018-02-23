@@ -1,0 +1,18 @@
+{
+  "name": "imurchie",
+  "version": "1.0.0",
+  "description": "Isaac Murchie's Contact Info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "isaac",
+    "murchie",
+    "person",
+    "contact",
+    "imurchie"
+  ],
+  "author": "Isaac A. Murchie <isaac@saucelabs.com>",
+  "license": "Apache-2.0"
+}
