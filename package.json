@@ -1,6 +1,6 @@
 {
   "name": "imurchie",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Isaac Murchie's Contact Info",
   "main": "index.js",
   "bin": "index.js",
