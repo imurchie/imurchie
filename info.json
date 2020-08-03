@@ -1,14 +1,12 @@
 {
   "name": "Isaac A. Murchie",
   "email": {
-    "personal": "murchieisaac@gmail.com",
-    "work": "isaac@saucelabs.com"
+    "personal": "murchieisaac@gmail.com"
   },
   "twitter": "imurchie",
   "github": "imurchie",
   "linkedin": "imurchie",
   "website": {
-    "work": "https://saucelabs.com",
     "appium": "https://appium.io",
     "personal": "https://imurchie.com"
   }
