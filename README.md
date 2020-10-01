@@ -1,3 +1,3 @@
-## Isaac A. Murchie
+## Isaac A. Murchie **¯\\__(ツ)__/¯**
 
-**¯\\__(ツ)__/¯**
+Senior Software Engineer at BenevolentAI.
