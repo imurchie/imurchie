@@ -1,7 +1,6 @@
 ## Isaac A. Murchie **¯\\__(ツ)__/¯**
 
-Lead Software Engineer at BenevolentAI. I work on machine-learning based target identification
-for drug discovery.
+Engineering Manager at Bubble, working on Data representation.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjYyNDkxMjY4XX0=
 -->
